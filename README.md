@@ -2,9 +2,6 @@
 
 # Create a custom token and deploy it to Avalanche Fuji Testnet
 
-
-This project is part of ETH+AVAX Proof Intermediate course by Metacrafters
-
 In this project we had to build a custom token using Solidity and deploy it to Avalanche Fuji Testnet using Hardhat.
 
 ## Pre-requisites
